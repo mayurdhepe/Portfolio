@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Mayur",
+    "surname": "Dhepe",
+    "description": "passionate about solving problems with experience in Web development, Object-Oriented design and Data Structures and Algorithms",
+    "image": "profilepic.jpg",
+    "bio": "I am currently pursuing Master’s in Computer Science at Virginia Tech, with an interest in Software Development and Machine Learning. I am looking for more challenges in this domain and I can't wait to build my next end to end application. I'm an excellent team player with a strong background in designing, planning, and maintenance of software programs, seeking the role of Software Engineer Intern to hone my technical skills and expertise along with delivering innovative and high quality software and products that meet all of the clients’ needs.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mdhepe@vt.edu / mayurdhepe@gmail.com",
+    "phone": "540-824-8348",
+    "address": {
+      "street": "12200 Foxridge Lane",
+      "city": "Blacksburg",
+      "state": "Virginia",
+      "zip": "24060"
+    },
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mayur.dhepe.12/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mayur-dhepe/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mayur_dhepe12/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mayurdhepe/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Virginia Tech",
+        "degree": "Master's in Computer Science",
+        "graduated": "Aug 2021 - May 2023",
+        "description": "Coursework: Data structures & Algorithms (CS 5040) | Software Engineering (CS 5704) | Data Analytics (CS 5525)",
+        "grade": "GPA: 4.0"
+      },
+      {
+        "school": "Vishwakarma Institute of Information Technology",
+        "degree": "Bachelor's in Computer Engineering",
+        "graduated": "July 2014 - July 2018",
+        "description": "Relevant courses: Data structures and problem solving, Object-oriented programming, Web development, Database management system, Design and analysis of algorithms, Operating systems, Computer Networks, Cyber Security",
+        "grade": "Percentage: 70% "
+      }
+    ],
+    "work": [
+      {
+        "company": "Mediaocean",
+        "title": "Software Engineer ",
+        "years": "July 2018 - July 2021",
+        "description": "Enhanced LUMINA product by developing new features to manage financial media planning data of Advertisers and Agencies. Delivered optimal solutions consistent with business requirements in a fast-paced environment. Worked on C#, ASP.NET, MongoDB at the backend and JavaScript at the frontend. Monitored production deployment and efficiently handled critical production issues by identifying root causes and providing quick workarounds and code/data fixes to those issues. Exercised Agile Scrum practices as a part of a cross-functional team in a CI/CD development environment. Built RESTful APIs to integrate with media buying product and fetch and update vendor authorizations. Mentored a team of new recruits and provided guidance in all kinds of activities from technical to functional."
+      },
+      {
+        "company": "Global Super Elite",
+        "title": "Software Development Intern",
+        "years": "May 2017 - June 2017",
+        "description": "Developed a web-based platform using PHP to search for professionals in locality, schedule appointments and communicate with them over a voice/video call. Ensured high-quality and reduced latency of video calls by 5% by integrating Twilio API built on top of WebRTC framework."
+      },
+      {
+        "company": "Shalaka Technologies Pvt. Ltd.",
+        "title": "Summer Intern",
+        "years": "May 2016 - June 2016",
+        "description": "Built a dynamic user Interface for a desktop application using JavaFX to display real-time sensor data from 30+ hardware devices connected in an IoT architecture."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ride Now: Ride Sharing App",
+        "category": "Ride Sharing platform for drivers and riders heading to the same destination",
+        "image": "RideNow.PNG",
+        "url": "https://github.com/mayurdhepe/RideNowApp"
+      },
+      {
+        "title": "Automated B2C Marketing",
+        "category": "Business to Customer Marketing platform to help businesses execute digital marketing campaigns across multiple social media platforms",
+        "image": "AutomatedB2C.PNG",
+        "url": "https://github.com/mayurdhepe/Automated-B2C-Marketing"
+      }
+    ]
+  }
+}
